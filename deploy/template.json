@@ -1,0 +1,10 @@
+{
+  "name": "action-post-password-change-integration-test",
+  "runtime": "node16",
+  "supported_triggers": [
+    {
+      "id": "post-change-password",
+      "version": "v2"
+    }
+  ]
+}
