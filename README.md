@@ -1,4 +1,4 @@
-# Post Login Action Integration Template
+# Post Change Password Action Integration Template
 
 This template is used to create Action Integrations in the Post Change Password flow. This Flow runs asynchronously when a user changes their password so it can be used for event reporting but not blocking a password change.
 
