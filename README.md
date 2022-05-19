@@ -1,10 +1,11 @@
-# Action Integration
+# Post Login Action Integration Template
 
-This template is used to create Action Integrations.
+This template is used to create Action Integrations in the Post Change Password flow. This Flow runs asynchronously when a user changes their password so it can be used for event reporting but not blocking a password change.
 
 ## Documentation
 
-- [Actions flow documentation](https://auth0.com/docs/customize/actions/flows-and-triggers/login-flow) - choose your Action type for information on the provided function parameters
+- [Post Change Password flow documentation](https://auth0.com/docs/customize/actions/flows-and-triggers/post-change-password-flow)
+- [Event object documentation](https://auth0.com/docs/customize/actions/flows-and-triggers/post-change-password-flow/event-object)
 - [Action Integrations documentation](https://auth0.com/docs/customize/integrations/marketplace-partners/actions-integrations-for-partners)
 - [Coding guidelines](https://auth0.com/docs/customize/actions/action-coding-guidelines)
 
